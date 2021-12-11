@@ -1,1 +1,1 @@
-# FlappyBird
+# Game Collection
